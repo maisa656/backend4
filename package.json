@@ -1,0 +1,13 @@
+{
+  "name": "backend4-middleware-assignment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Express middleware assignment",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
